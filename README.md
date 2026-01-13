@@ -1,5 +1,5 @@
 # Hi, I’m Jaycie Liu
-[LinkedIn](<www.linkedin.com/in/jaycie-liu>) · [Resume](<link>) · [Email](mailto:<zutongli@usc.edu>) · [Portfolio](<optional link>)
+[LinkedIn](www.linkedin.com/in/jaycie-liu) · [Resume](<link>) · [Email](mailto:<zutongli@usc.edu>) · [Portfolio](<optional link>)
 
 MSBA @ USC Marshall (Class of 2025)
 Python • SQL • Machine Learning • Experimentation • Data Visualization
